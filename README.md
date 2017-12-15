@@ -1,7 +1,6 @@
 # ML_Project_Email_Spam
 
 This repository is a simple try of using machine learning to censor email content, and spam junk mails.
-______________________________________________________________________________________________________________________________
 
 ## Extracting data
 
