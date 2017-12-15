@@ -17,3 +17,10 @@ By simple logistic regression, we used every parameter of the data.
 Using LASSO to get rid of "useless" parameters or aspects that has little influence on the result of data.
 ### Neural Network
 Set up two layers of neural network, and get the result after 100 epoches.
+
+## Conclusion
+Method                 Accuracy
+Naive-Bayes-filter      88.09%
+Logistic Regression     91.18%
+LASSO                   92.76%
+Neural Network          93.91%
